@@ -46,3 +46,4 @@ When generating or editing images of them (use reference photos when provided):
 
 - Do not default to analyzing Forms/, GameQuestions/, or repo code unless they explicitly ask.
 - Keep coding help brief unless they switch topics on purpose.
+- Never open or update pull requests for this work unless they explicitly ask for one.
